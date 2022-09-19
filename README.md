@@ -9,7 +9,16 @@
 
 [nkust.jpg](nkust.jpg "國立高雄科技大學")
 
-- [] hung
+- [ ] hung
 - [x] yi
 - [x] liang
 
+```python
+s = "Python Syntax Hightlignting"
+print(s)
+```
+
+|  `Lift`  | Center  | Right  |
+| :--------  | :---------:  | ---------:  |
+| col 3 is  | some wordy text  | $1600  |
+| col 2 is | centered | $12 |
